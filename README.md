@@ -1,3 +1,9 @@
+## Comandos:
+
+npx create-react-app typescript_react --template typescript \
+npm install eslint-import-resolver-typescript eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-ally eslint-plugin-react eslint-config-prettier eslint-plugin-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser -D
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
