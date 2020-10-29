@@ -1,7 +1,11 @@
 ## Comandos:
 
 npx create-react-app typescript_react --template typescript \
+<<<<<<< HEAD
 npm install eslint-import-resolver-typescript eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-ally eslint-plugin-react eslint-config-prettier eslint-plugin-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser -D
+=======
+npm install eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-ally eslint-plugin-react eslint-config-prettier eslint-plugin-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser -D
+>>>>>>> 5df65b9c0b80cb54ff358c638c7ebfeee32f0eff
 
 
 # Getting Started with Create React App
